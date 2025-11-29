@@ -1,0 +1,25 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Output images
+outputs/
+
+# Jupyter / VSCode / system files
+.ipynb_checkpoints/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Hugging Face / diffusers caches (optional)
+cache/

@@ -1,0 +1,9 @@
+diffusers[torch]>=0.29.0
+transformers>=4.42.0
+accelerate>=0.30.0
+safetensors>=0.4.2
+huggingface-hub>=0.18.0
+python-dotenv>=1.0.0
+gradio>=4.0.0
+Pillow>=10.0.0
+xformers
